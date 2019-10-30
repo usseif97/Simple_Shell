@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570799189 source:/home/usseif/Documents/Projects/Simple__Shell/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<sys/wait.h>
+	<unistd.h>
+	<fstream>
+
